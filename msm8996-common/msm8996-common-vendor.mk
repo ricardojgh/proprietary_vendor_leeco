@@ -727,11 +727,7 @@ PRODUCT_PACKAGES += \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
-<<<<<<< HEAD
     PowerOffAlarm \
     TimeService \
-    WfdCommon
-=======
-    TimeService \
+    WfdCommon \
     UEIQuicksetSDKLeTV
->>>>>>> parent of 698a7c7... Revert "msm8996-common: implement binderized consumerir HAL + bridge"
