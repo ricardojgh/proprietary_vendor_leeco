@@ -730,4 +730,5 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     TimeService \
     WfdCommon \
-    UEIQuicksetSDKLeTV
+    UEIQuicksetSDKLeTV \
+    LetvRemoteControl
